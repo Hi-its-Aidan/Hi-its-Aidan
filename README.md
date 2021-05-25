@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aidan
-I’m a mechanical engineer interested in data engineering and robotics!
+- I’m a mechanical engineer interested in data engineering and robotics!
 
 
 
